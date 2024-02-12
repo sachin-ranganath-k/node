@@ -2,7 +2,7 @@
   "name": "node",
   "version": "1.0.0",
   "description": "",
-  "main": "1/app.js",
+  "main": "readHtmlFile/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
